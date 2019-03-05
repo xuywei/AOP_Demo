@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ebpay_black">#ff000000</color>
+    <color name="ebpay_transparent">#00000000</color>
+
+    <!-- 蓝色色 -->
+
+    <!-- 字体颜色 -->
+
+    <!-- For Charge -->
+
+    <!-- For Personal -->
+
+    <!-- For Dialog -->
+    <color name="bd_wallet_dialog_lineblue">#37a6fb</color>
+
+    <!-- For PwdPayDialog -->
+
+
+</resources>

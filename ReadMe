@@ -1,0 +1,12 @@
+--------------------------模块化------------------------
+                           APP
+                            |
+                        moduleCore(具体业务层)
+                            |
+                       modulePublic(公共业务层)
+                            |
+                       moduleSystem(系统底层)
+
+moduleCore：具体到业务逻辑，登录等（业务层后期加入路由方式）
+modulePublic：公共业务，如地图等，comment公共data资源
+moduleSystem:系统层面，base子层负责网络，io流等，weight层负责自定义view，framework框架层负责mvp框架等
