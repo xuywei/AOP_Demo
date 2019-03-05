@@ -1,4 +1,4 @@
-include ':app',
+include ':app',':apt',':lib',
         ':moduleCore:moduleLogin',
         ':modulePublic:Push', ':modulePublic:bdwallet_pay_sdk', ':modulePublic:pingpp',':modulePublic:moduleCommon',
         ':lib:xrecyclerview',':lib:SwipeBackLayout',
